@@ -1,0 +1,5 @@
+Batch_Code__c,Name,Course__r.Course_Code__c,Trainer__r.Employee_ID__c,Status__c,Start_Date__c,End_Date__c,Enrollment_Close_Date__c,Delivery_Mode__c,Max_Seats__c,Seats_Taken__c,Total_Weightage__c
+BTC-2026-DEV101-01,"Apex Essentials - Oct Cohort",CRS-DEV-101,EMP-TRN-001,Open for Enrollment,2026-11-01,2026-11-20,2026-10-25,Virtual,5,0,0
+BTC-2026-DEV101-02,"Apex Essentials - Dec Cohort",CRS-DEV-101,EMP-TRN-001,Draft,2026-12-01,2026-12-20,2026-11-25,Virtual,10,0,0
+BTC-2026-SEC201-01,"Cloud Security - Nov Cohort",CRS-SEC-201,EMP-TRN-002,Open for Enrollment,2026-11-10,2026-11-25,2026-11-05,Classroom,4,0,0
+BTC-2026-LDR101-01,"Tech Leadership - Nov Cohort",CRS-LDR-101,EMP-TRN-001,Open for Enrollment,2026-11-15,2026-11-30,2026-11-10,Hybrid,6,0,0

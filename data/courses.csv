@@ -1,0 +1,5 @@
+Name,Course_Code__c,Category__c,Level__c,Duration_Hours__c,Pass_Mark__c,Status__c,Certificate_Validity_Months__c,Description__c
+"Salesforce Apex & Architecture Essentials",CRS-DEV-101,Technical,Intermediate,40,70,Published,24,"Comprehensive engineering bootcamp covering Apex triggers, governor limits, enterprise design patterns, and asynchronous processing."
+"Enterprise Cloud Security & Compliance",CRS-SEC-201,Compliance,Advanced,24,75,Published,12,"Covers security models, OWDs, sharing sets, field-level security, encryption, and audit tracking in Salesforce."
+"Engineering Leadership & Mentorship",CRS-LDR-101,Leadership,Beginner,16,60,Published,,"Foundations of technical leadership, code review culture, cross-functional collaboration, and developer mentorship."
+"Modern Web Development with LWC",CRS-DEV-202,Technical,Advanced,32,70,Draft,24,"Deep dive into Lightning Web Components, custom events, LMS channels, and responsive design."

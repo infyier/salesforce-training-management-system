@@ -1,0 +1,9 @@
+FirstName,LastName,Email,Employee_ID__c,Department__c,Specialization__c,RecordTypeId
+Ravi,Kumar,ravi.kumar@example.com,EMP-TRN-001,Engineering,"Salesforce & Cloud Architecture",012aj00000EkBYIAA3
+Sarah,Jenkins,sarah.jenkins@example.com,EMP-TRN-002,Operations,"Security & Governance",012aj00000EkBYIAA3
+Asha,Patel,asha.patel@example.com,EMP-TRN-101,Engineering,,012aj00000EkBYHAA3
+David,Kim,david.kim@example.com,EMP-TRN-102,Engineering,,012aj00000EkBYHAA3
+Elena,Rostova,elena.rostova@example.com,EMP-TRN-103,HR,,012aj00000EkBYHAA3
+Carlos,Mendez,carlos.mendez@example.com,EMP-TRN-104,Sales,,012aj00000EkBYHAA3
+Priya,Sharma,priya.sharma@example.com,EMP-TRN-105,Finance,,012aj00000EkBYHAA3
+Meera,Nair,meera.nair@example.com,EMP-MGR-001,HR,,012aj00000EkBYIAA3
